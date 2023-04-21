@@ -1,1 +1,1 @@
-# fairy-theme-vscode
+# ebizome-theme-vscode

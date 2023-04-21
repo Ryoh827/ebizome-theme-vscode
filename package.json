@@ -1,6 +1,6 @@
 {
-  "name": "fairy-theme-vscode",
-  "displayName": "fairy-theme-vscode",
+  "name": "ebizome-theme-vscode",
+  "displayName": "ebizome-theme-vscode",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "fairy-theme-vscode",
+        "label": "Ebizome",
         "uiTheme": "vs",
-        "path": "./themes/Fairy-color-theme.json"
+        "path": "./themes/ebizome-theme.json"
       }
     ]
   },

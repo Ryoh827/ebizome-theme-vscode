@@ -1,15 +1,16 @@
 import { createTheme, createThemesDirectory } from "./build";
-import { fairyPalette } from "./themes/fairy/palette";
+import { ebizomePalette } from "./themes/ebizome/palette";
 
 function main() {
   createThemesDirectory();
 
+  // Create a theme
   createTheme({
-    name: "Fairy",
-    fileName: "Fairy-color-theme",
+    name: "Ebizome",
+    fileName: "ebizome-theme",
     author: "ryoh827",
-    palette: fairyPalette,
-    type: "light",
+    palette: ebizomePalette,
+    type: "dark",
   });
 }
 
