@@ -160,7 +160,7 @@ export const common: TokenColorGenerator = (palette) => {
     {
       scope: "punctuation",
       settings: {
-        foreground: palette.fgSub,
+        foreground: palette.green,
       },
     },
 
