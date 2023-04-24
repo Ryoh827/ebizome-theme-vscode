@@ -11,7 +11,7 @@ export const common: TokenColorGenerator = (palette) => {
       ],
       settings: {
         foreground: palette.fgShadow,
-        fontStyle: ["italic"],
+        fontStyle: [],
       },
     },
 
