@@ -2,7 +2,7 @@
   "name": "ebizome-theme-vscode",
   "displayName": "ebizome-theme-vscode",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "ryoh827",
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
       {
         "label": "Ebizome",
         "uiTheme": "vs-dark",
-        "path": "./themes/ebizome-theme.json"
+        "path": "./themes/ebizome-color-theme.json"
       }
     ]
   },
