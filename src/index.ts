@@ -7,7 +7,7 @@ function main() {
   // Create a theme
   createTheme({
     name: "Ebizome",
-    fileName: "ebizome-theme",
+    fileName: "ebizome-color-theme",
     author: "ryoh827",
     palette: ebizomePalette,
     type: "dark",
